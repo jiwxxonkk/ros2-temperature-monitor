@@ -1,0 +1,17 @@
+# ROS 2 / colcon outputs at any directory depth
+build/
+install/
+log/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+desktop.ini
+*~
